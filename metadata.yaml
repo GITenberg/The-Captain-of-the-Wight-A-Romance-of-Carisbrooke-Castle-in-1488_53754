@@ -1,0 +1,26 @@
+_repo: The-Captain-of-the-Wight-A-Romance-of-Carisbrooke-Castle-in-1488_53754
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cowper, Frank Cadogan
+    alias: Cadogan Cowper, Frank
+    birthdate: 1877
+    deathdate: 1958
+    gutenberg_agent_id: '47502'
+    url: http://www.gutenberg.org/2009/agents/47502
+description: Illustrated by the author.
+gutenberg_issued: '2016-12-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53754'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Middle Ages -- Juvenile fiction'
+- !lcsh 'Chivalry -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: 'The Captain of the Wight: A Romance of Carisbrooke Castle in 1488'
+url: http://www.gutenberg.org/ebooks/53754
